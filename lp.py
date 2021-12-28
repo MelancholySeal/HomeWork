@@ -1,3 +1,6 @@
+
+
+# номер 5
 # def f(x,y):
 #     n = x
 #     k = ''
@@ -35,7 +38,7 @@
 
 
 
-
+# номер 6
 # v = 0
 # def f(s):
 #     global v
@@ -50,6 +53,7 @@
 #     f(k)
 # print(v)
 
+# номер 10
 #
 # alf = ['В','А','Л','Е','Р','И','Я']
 # alf.sort()
@@ -68,7 +72,7 @@
 
 
 
-
+# номер 11
 # alf = ['Р','У','С','Л','А','Н']
 # v = 0
 # for f1 in alf:
@@ -82,6 +86,8 @@
 #                         v += 1
 # print(v)
 
+
+# номер 15
 # for i in range(201,1000):
 #     n = '1'
 #     n = n*i
@@ -94,14 +100,14 @@
 #         print(i)
 #         print(n)
 
-
+# номер 18
 # def f(x,A):
 #     return (x & 29 != 0) <= ((x & 17 == 0) <= (x & A != 0))
 # for A in range(10000):
 #     if all(f(x,A) for x in range(1000)):
 #         print(A)
 
-
+# номер 19
 # def f(n):
 #     if n == 0: return 0
 #     elif n > 0 and n%2==0: return f(n/2)
@@ -111,6 +117,8 @@
 #     if f(n) == 9:
 #         print(n)
 
+
+# номер 20
 # with open('17.txt') as f:
 #     max_ = 0
 #     l = []
@@ -126,7 +134,7 @@
 #                 max_ = a  + b
 # print(m,max_)
 
-#
+# номер 22
 # def f(x,p):
 #     if x >= 68 and p == 3:
 #         return True
@@ -143,8 +151,9 @@
 #     if f(j,1):
 #         print(j)
 
-#
-#
+
+
+# номер 23
 # def f(x,y):
 #     if x > y: return 0
 #     if x == y: return 1
