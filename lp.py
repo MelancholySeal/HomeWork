@@ -160,4 +160,21 @@
 # print(f(2,90))
 
 
-
+# номер 24
+# with open('24.txt') as f:
+#     d_count = 0
+#     a = f.readline().strip()
+#     v = 0
+#     max_ = 0
+#     for k in range(len(a)):
+#         if a[k] != 'D':
+#             v+=1
+#         elif a[k] == 'D':
+#             d_count += 1
+#             if d_count > 1:
+#                 max_ = max(max_,v)
+#                 v = 0
+#                 d_count = 0
+#             elif d_count <= 1:
+#                 v+=1
+# print(max_)
