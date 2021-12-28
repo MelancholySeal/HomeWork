@@ -138,9 +138,9 @@
 
 
 
-def f(x,y):
-    if x > y: return 0
-    if x == y: return 1
-    return f(x+1,y) + f(x*3,y)
-print(f(2,28)+f(28,90))
-print(f(2,90))
+# def f(x,y):
+#     if x > y: return 0
+#     if x == y: return 1
+#     return f(x+1,y) + f(x*3,y)
+# print(f(2,28)+f(28,90))
+# print(f(2,90))
