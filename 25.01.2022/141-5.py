@@ -1,0 +1,6 @@
+print(bin(131))
+print(bin(132))
+print(bin(133))
+print(bin(134))
+print(bin(142))
+print(int('10001',2))
